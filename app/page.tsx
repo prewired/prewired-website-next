@@ -1,6 +1,8 @@
 const Home = () => {
 	return (
-		<div></div>
+		<div className="w-full h-[100vh]">
+			~ This is the home page! ~
+		</div>
 	);
 };
 
